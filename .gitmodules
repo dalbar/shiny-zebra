@@ -1,0 +1,3 @@
+[submodule "food-ful"]
+	path = food-ful
+	url = git@github.com:ElHong/food-ful.git
