@@ -56,11 +56,8 @@ export default function Home() {
           </span>
         </div>
         <div className={styles.topActions}>
-          <button type="button" className={styles.secondaryButton}>
-            Save draft
-          </button>
           <button type="button" className={styles.primaryButton}>
-            Continue later
+            Continue
           </button>
         </div>
       </div>
@@ -122,9 +119,6 @@ export default function Home() {
                 prototype.
               </p>
             </div>
-            <button type="button" className={styles.secondaryButton}>
-              Duplicate from template
-            </button>
           </header>
 
           <div className={styles.formGrid}>
